@@ -4,7 +4,7 @@
   "description": "Run this bot to check calendly for specific events and either alert or perform the scheduling.",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "child_process": "^1.0.2",
     "cls-hooked": "^4.2.2",
     "mongoose": "^5.9.25",
